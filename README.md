@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/hofertherainbow?style=social)
 
 ![Open Source ](https://github.com/erikhofer/erikhofer/raw/master/commits.png)
 
