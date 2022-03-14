@@ -5,9 +5,9 @@
 
 ### Blog:
 
-<!--START_SECTION:feed-->
+<!--START_SECTION:blog-->
 ...
-<!--END_SECTION:feed-->
+<!--END_SECTION:blog-->
 
 <!--
 **erikhofer/erikhofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
