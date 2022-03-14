@@ -3,6 +3,12 @@
 
 ![Open Source ](https://github.com/erikhofer/erikhofer/raw/master/commits.png)
 
+### Blog:
+
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 <!--
 **erikhofer/erikhofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
