@@ -1,0 +1,15 @@
+name: Update Blog
+
+on:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 5 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://dev.to/feed/erikhofer
+          readme-section: blog
