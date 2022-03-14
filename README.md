@@ -6,7 +6,8 @@
 ### Blog:
 
 <!--START_SECTION:blog-->
-...
+* [Build and Publish a Multi-Platform Electron App on GitHub](https:&#x2F;&#x2F;dev.to&#x2F;erikhofer&#x2F;build-and-publish-a-multi-platform-electron-app-on-github-3lnd)
+* [We created an Open Source Programming and Auto Evaluation Platform for CS Education](https:&#x2F;&#x2F;dev.to&#x2F;erikhofer&#x2F;we-created-an-open-source-programming-and-auto-evaluation-platform-for-cs-education-nbj)
 <!--END_SECTION:blog-->
 
 <!--
