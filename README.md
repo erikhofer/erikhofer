@@ -1,8 +1,10 @@
-### Hi there 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/hofertherainbow?style=social)](https://twitter.com/hofertherainbow)
+# Erik Hofer
+[![Twitter Follow](https://img.shields.io/twitter/follow/ErikHoferDev?style=social)](https://twitter.com/ErikHoferDev)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/107303936695796776?domain=https%3A%2F%2Fmastodon.social&style=social)](https://mastodon.social/@erikhofer)
 
 ![Open Source ](https://github.com/erikhofer/erikhofer/raw/master/commits.png)
+
+### Currently working on 🎯 [scope42](https://github.com/scope42/scope42)
 
 ### Blog:
 
