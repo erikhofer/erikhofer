@@ -1,6 +1,6 @@
 # Erik Hofer
 [![Twitter Follow](https://img.shields.io/twitter/follow/ErikHoferDev?style=social)](https://twitter.com/ErikHoferDev)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/107303936695796776?domain=https%3A%2F%2Fmastodon.social&style=social)](https://mastodon.social/@erikhofer)
+<a rel="me" href="https://mastodon.social/@erikhofer"><img src="https://img.shields.io/mastodon/follow/107303936695796776?domain=https%3A%2F%2Fmastodon.social&style=social" alt="Mastodon Follow" /></a>
 
 ![Open Source ](https://github.com/erikhofer/erikhofer/raw/master/commits.png)
 
